@@ -1,6 +1,6 @@
 # CompMusic
 
-The corpus is the entire discorgraphy of the band Snarky Puppy, which I chose because I'm personally a big fan of their music and have been for a while.
+The corpus is the entire discography of the band Snarky Puppy, which I chose because I'm personally a big fan of their music and have been for a while.
 Their music combines a wide variety of genres, from jazz to funk to rock, and even has some classical aspects in certain tunes. This is what most interests me about their music, you would never expect all these different types of music to work so well together, but they make it work. 
 
 The most obvious points of comparison in this corpus are the different albums, the different styles/genres across the corpus and perhaps the live performances versus the studio records. I expect a wide variaty between the different albums as well as the styles, and I'm curious as to what genres Spotify categorizes the different records into.
